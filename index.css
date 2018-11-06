@@ -1,0 +1,11 @@
+* {
+background-image: url("https://i.ytimg.com/vi/yqXC4wlIAbI/maxresdefault.jpg");
+}
+
+p {
+  color:#390000;
+  text-align: center;
+  text-decoration: underline;
+   text-shadow: 2px 2px blue;
+
+}
