@@ -1,34 +1,113 @@
 body {
+
 background-image: url("https://i.ytimg.com/vi/yqXC4wlIAbI/maxresdefault.jpg");
+
 }
+
+
 
 p {
+
   color:#390000;
+
   text-align: center;
+
   text-decoration: underline;
+
    text-shadow: 2px 2px blue;
+
    font-size: 40px;
 
+
+
 }
+
+
 
 h1 {
+
   color:red;
+
   text-align:center;
+
 }
 
+
+
  #nav { 
+
    
+
    background-image: url('https://dncache-mauganscorp.netdna-ssl.com/thumbseg/498/498008-bigthumbnail.jpg');
+
+
 
    background-color: #efefef;
 
+
+
 				padding: 0.5em 0;
+
    
+
    margin: 1%;
 
 
 
+
+
+
+
 }
+
+
+
+* {
+
+
+
+			
+
+
+
+      font-family: 'DancingScriptRegular';
+
+
+
+  
+
+
+
+
+
+
+
+        font-weight: normal;
+
+
+
+
+
+
+
+        font-style: normal;
+
+
+
+
+
+
+
+         
+
+
+
+  
+
+
+
+  text-align: center;}
+
 
 * {
 
@@ -53,3 +132,34 @@ h1 {
   
 
 				text-align: center;
+
+      
+
+  
+
+         color:blue
+
+                }
+
+
+
+		
+
+li {
+
+				display: inline;
+
+				padding: 0.5em;}
+
+
+
+
+
+
+
+
+
+
+
+
+
