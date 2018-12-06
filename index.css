@@ -1,44 +1,88 @@
 body {
 
+
+
 background-image: url("https://i.ytimg.com/vi/yqXC4wlIAbI/maxresdefault.jpg");
 
+
+
 }
+
+
+
+
 
 
 
 p {
 
+
+
   color:#390000;
+
+
 
   text-align: center;
 
+
+
   text-decoration: underline;
 
+
+
    text-shadow: 2px 2px blue;
+
+
 
    font-size: 40px;
 
 
 
+
+
+
+
 }
+
+
+
+
 
 
 
 h1 {
 
+
+
   color:red;
 
+
+
   text-align:center;
+
+
 
 }
 
 
 
+
+
+
+
  #nav { 
+
+
 
    
 
+
+
    background-image: url('https://dncache-mauganscorp.netdna-ssl.com/thumbseg/498/498008-bigthumbnail.jpg');
+
+
+
+
 
 
 
@@ -46,9 +90,17 @@ h1 {
 
 
 
+
+
+
+
 				padding: 0.5em 0;
 
+
+
    
+
+
 
    margin: 1%;
 
@@ -58,7 +110,19 @@ h1 {
 
 
 
+
+
+
+
+
+
+
+
 }
+
+
+
+
 
 
 
@@ -66,7 +130,15 @@ h1 {
 
 
 
+
+
+
+
 			
+
+
+
+
 
 
 
@@ -74,7 +146,19 @@ h1 {
 
 
 
+
+
+
+
   
+
+
+
+
+
+
+
+
 
 
 
@@ -90,7 +174,23 @@ h1 {
 
 
 
+
+
+
+
+
+
+
+
         font-style: normal;
+
+
+
+
+
+
+
+
 
 
 
@@ -102,20 +202,41 @@ h1 {
 
 
 
+
+
+
+
   
+
+
+
+
 
 
 
   text-align: center;}
 
 
+
+
+
 * {
+
+
 
 			
 
+
+
       font-family: 'DancingScriptRegular';
 
+
+
   
+
+
+
+
 
 
 
@@ -123,36 +244,118 @@ h1 {
 
 
 
+
+
+
+
         font-style: normal;
+
+
+
+
 
 
 
          
 
+
+
   
+
+
 
 				text-align: center;
 
+
+
       
+
+
 
   
 
+
+
          color:blue
+
+
 
                 }
 
 
 
+
+
+
+
 		
+
+
 
 li {
 
+
+
 				display: inline;
+
+
 
 				padding: 0.5em;}
 
 
 
+#content {
+
+
+
+				overflow: auto;
+
+}
+
+
+
+			#feature {
+
+
+
+				margin: 1%;
+        
+        height: 10em;
+
+
+
+				margin-bottom: 1em;
+
+
+
+				background-color: #efefef;
+        
+        background-color:yellow;
+        
+        
+}
+
+#intro {
+
+
+
+  color:#390000;
+
+
+
+  text-align: justify;
+
+
+
+  text-decoration: underline;
+
+
+
+   text-shadow: 1px 1px blue;
+
+
+
+   font-size: 20px;
 
 
 
@@ -160,6 +363,4 @@ li {
 
 
 
-
-
-
+}
